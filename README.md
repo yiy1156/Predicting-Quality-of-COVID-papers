@@ -6,7 +6,6 @@ Reference Papers: Where papers relevant to the project are kept. These papers wi
 
 collaboration_infrastructure.txt: Where logistical stuff is dealt with. Right now contains link to google doc for project drafting.
 
-COVID19_Sample_Dataset_1.xlsx: Self-explanatory file title.
 
 # HYPOTHESIS: It is possible to predict the quality or influence of a newly published research paper on COVID19.
 The CDC publishes datasets of research papers concerning COVID19. These datasets can be used for two potentially complementary project components.
