@@ -1,5 +1,4 @@
 # File/Folder Descriptions
-Project Notes: Where thoughts and progress on the project is logged by date. This way, ideas from a work session aren't lost. What bugs were fixed? What details need to be fixed in the future? Are there conceptual problems discovered that need more attention?
 
 build_coauthor_network.py: Script that reads in CDC dataset and returns a coauthorship network.
 
